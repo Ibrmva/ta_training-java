@@ -2,7 +2,7 @@ package com.epam.training.student_gulaiym_ibraimova.ta_trainingjava.models;
 
 import java.util.Objects;
 
-import static com.epam.training.student_nazarii_riabcheniuk.util.StringUtils.containsSubstring;
+import static com.epam.training.student_gulaiym_ibraimova.ta_trainingjava.util.StringUtils.containsSubstring;
 
 public class CloudEngine {
 
